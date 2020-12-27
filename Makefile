@@ -1,4 +1,5 @@
 update:
 	git add .
 	git commit -m "update"
-	git push origin HEAD:main
+	git push origin master
+
